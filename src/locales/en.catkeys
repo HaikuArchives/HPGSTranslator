@@ -1,0 +1,13 @@
+1	English	x-vnd.Haiku-HPGSTranslator	532301333
+Based on HPGS (http://hpgs.berlios.de)	ConfigView		Based on HPGS (http://hpgs.berlios.de)
+Version %d.%d.%d, %s	ConfigView		Version %d.%d.%d, %s
+Error: Cannot process plot data %s\n	HPGSTranslator		Error: Cannot process plot data %s\n
+HPGS image	HPGSTranslator		HPGS image
+HPGSTranslator Settings	ConfigView		HPGSTranslator Settings
+Error: Cannot imbue plot device to reader: %s\n	HPGSTranslator		Error: Cannot imbue plot device to reader: %s\n
+HPGS images	ConfigView		HPGS images
+HPGS images	HPGSTranslator		HPGS images
+no hpgs\n	HPGSTranslator		no hpgs\n
+HPGS image translator	HPGSTranslator		HPGS image translator
+Write error %s\n	HPGSTranslator		Write error %s\n
+Be Bitmap Format	BaseTranslator		Be Bitmap Format

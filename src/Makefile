@@ -15,7 +15,7 @@ NAME = HPGSTranslator
 TYPE = SHARED
 
 # 	If you plan to use localization, specify the application's MIME signature.
-APP_MIME_SIG =
+APP_MIME_SIG = x-vnd.Haiku-HPGSTranslator
 
 #	The following lines tell Pe and Eddie where the SRCS, RDEFS, and RSRCS are
 #	so that Pe and Eddie can fill them in for you.
@@ -118,7 +118,7 @@ OPTIMIZE := SOME
 # 	will recreate only the "locales/en.catkeys" file. Use it as a template
 # 	for creating catkeys for other languages. All localization files must be
 # 	placed in the "locales" subdirectory.
-LOCALES =
+LOCALES = be es hr ja pl ru sv cs fi hu lt pt_BR sk uk de fr it nl ro sl zh_Hans
 
 #	Specify all the preprocessor symbols to be defined. The symbols will not
 #	have their values set automatically; you must supply the value (if any) to
